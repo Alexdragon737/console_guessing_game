@@ -1,0 +1,7 @@
+Hello, welcome to the number guessing game.
+
+As the title says, it's a game in which you need to guess a random generated number.
+Please input a number, which will represent your next choice, as specified in the following list
+1. Start the game
+2. See the rules
+3. Exit the game

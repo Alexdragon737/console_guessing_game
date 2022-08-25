@@ -1,0 +1,11 @@
+This is a number guessing game that has about 4 levels of difficulty as of now:
+-Baby level: guess a number between 1 and 10
+-Intermediate: guess a number between 1 and 100
+-Expert: guess a number between 1 and 1000
+-Nostradamus or some crap: guess a number between 1 and the numeric limit of unsigned int(4294967295 to be more specific)
+
+The game also features a hardcore mode, which integrates a lives system. The initial lives for each difficulty are:
+-Baby level - 10 lives
+-Intermediate - 7 lives
+-Advanced - 4 lives
+-Nostradamus or some crap - 1 life
