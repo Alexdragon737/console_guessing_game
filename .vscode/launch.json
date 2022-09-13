@@ -8,7 +8,7 @@
             "name": "cl.exe - Build and debug active file",
             "type": "cppvsdbg",
             "request": "launch",
-            "program": "${fileDirname}\\guessingGame.exe",
+            "program": "${fileDirname}\\..\\bin\\guessingGame.exe",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${fileDirname}",
