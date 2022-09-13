@@ -9,7 +9,7 @@
                 "-g",
                 "*.cpp",
                 "-o",
-                "${fileDirname}\\guessingGame.exe"
+                "${fileDirname}\\..\\bin\\guessingGame.exe"
             ],
             "options": {
                 "cwd": "${fileDirname}"
